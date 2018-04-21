@@ -27,7 +27,7 @@
             "category_id": "5ada2b970ec15e15d8005202",
             "category_image": "12228481524247447.png",
             "category_name": "Daily Cost",
-            "category_type": 4 // Type 4 will be cost menus
+            "category_type": 4 
         }
     ]
 
